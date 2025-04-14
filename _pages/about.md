@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate major in computer science at BiWell Lab, City University of Hong Kong, supervised by [Dr. Yuhan LUO](https://yuhanlolo.github.io/me/). This is my email address: mhliang4-c@my.cityu.edu.hk
+I am currently a Ph.D. candidate major in computer science at BiWell Lab, City University of Hong Kong, supervised by [Dr. Yuhan LUO](https://yuhanlolo.github.io/me/). This is my email address: **mhliang4-c@my.cityu.edu.hk**
 
 Before working at HongKong, I spent four years (2019 to 2023) at Xi'an Jiaotong University, where I earned my bachelor's degree in Automation. Currently, my research focuses on human-computer interaction. I review literature, conduct interviews, and facilitate co-design sessions to understand users' needs and develop design rationales. Following that, I build prototypes, often featuring LLM-powered conversational interfaces, to explore whether my designs can enhance user experience and promote well-being in real-world scenarios.
 

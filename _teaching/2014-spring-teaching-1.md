@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "CS1102 (2023 fall): Introduction to Computer Studies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "City University of Hong Kong, Computer Science Department"
+date: 2023-09-04
+location: "City University of Hong Kong"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+More information of this course: click me[https://www.cityu.edu.hk/catalogue/ug/current/course/CS1102.htm].

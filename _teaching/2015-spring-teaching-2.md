@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS2204 (2024 spring): Fundamentals of Internet Applications Development"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2015-spring-teaching-2
+venue: "City University of Hong Kong, Computer Science Department"
+date: 2024-01-20
+location: "City University of Hong Kong"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I serve as a teaching assistant for this course, where my primary responsibilities include assisting the lab tutor with programming practice sessions, grading assignment submissions, and supervising examinations.
+More information of this course: click me[https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm].

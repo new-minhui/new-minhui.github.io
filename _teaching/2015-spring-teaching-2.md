@@ -7,5 +7,5 @@ venue: "City University of Hong Kong, Computer Science Department"
 date: 2024-01-20
 location: "City University of Hong Kong"
 ---
-I serve as a teaching assistant for this course, where my primary responsibilities include assisting the lab tutor with programming practice sessions, grading assignment submissions, and supervising examinations.
+I serve as a **teaching assistant (TA)** for this course, where my primary responsibilities include assisting the lab tutor with programming practice sessions, grading assignment submissions, and supervising examinations.
 More information of this course: [click me](https://www.cityu.edu.hk/catalogue/ug/current/course/CS2204.htm).

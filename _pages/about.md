@@ -26,7 +26,7 @@ Before working at HongKong, I spent four years (2019 to 2023) at Xi'an Jiaotong 
 - 🤖 **SmartEats-2**: Experiment Prototype, a dietary recommender web application with upgraded multi-LLM collaboration pipelines.
   
 ## Services
-- 👤 **Reviewer**: ACM CHI 24, CHI 25, and CCHI 24.
+- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, and IDC 25 LBW track.
 - 👥 **Associate Chair**: ACM CHI 25 LBW track.
 
 

@@ -16,7 +16,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 ## News
 - 🔎 **I am actively seeking internship opportunities and other forms of collaborative engagements. If you are interested, feel free to reach out!**
 - 📝 One poster is accepted by **CUI 2025**.
-- 🙈 **Two manuscripts** is under-review, wish me good luck!
+- 🙈 **Two manuscripts** are under-review, wish me good luck!
 - 📝 One paper is accepted by **CUI 2025** with **Full Score**.
 - 🏆 [2024/4/26] Our paper *Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures* received **honorable mention award** (top 5%) at **CHI 2024**.
 - 📝 Two papers are accepted by **CHI 2024**.
@@ -28,7 +28,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 - 🤖 **SmartEats-2**: Experiment Prototype, a dietary recommender web application with upgraded multi-LLM collaboration pipelines.
   
 ## Services
-- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, IDC 25 LBW track, Pervasive Health 25 (full score review).
+- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, IDC 25 LBW track, Pervasive Health 25 (full score review), IJHCS 25.
 - 👥 **Associate Chair**: ACM CHI 25 LBW track.
 
 

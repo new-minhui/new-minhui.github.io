@@ -15,8 +15,9 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 
 ## News
 - 🔎 **I am actively seeking internship opportunities and other forms of collaborative engagements. If you are interested, feel free to reach out!**
+- 🙈 **One manuscript** is under-review, wish me good luck!
+- 📝 One paper is accepted by **IMWUT 2026**.
 - 📝 One poster is accepted by **CUI 2025**.
-- 🙈 **Two manuscripts** are under-review, wish me good luck!
 - 📝 One paper is accepted by **CUI 2025** with **Full Score**.
 - 🏆 [2024/4/26] Our paper *Emotion Embodied: Unveiling the Expressive Potential of Single-Hand Gestures* received **honorable mention award** (top 5%) at **CHI 2024**.
 - 📝 Two papers are accepted by **CHI 2024**.

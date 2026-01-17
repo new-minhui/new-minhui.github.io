@@ -1,5 +1,5 @@
 ---
-title: "CS2204 (2025 spring): Fundamentals of Internet Applications Development"
+title: "CS2204 (2025, 2026 spring): Fundamentals of Internet Applications Development"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-4

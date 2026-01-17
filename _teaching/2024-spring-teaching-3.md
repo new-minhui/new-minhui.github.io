@@ -1,5 +1,5 @@
 ---
-title: "CS1102 (2024 fall): Introduction to Computer Studies"
+title: "CS1102 (2024, 2025 fall): Introduction to Computer Studies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-3

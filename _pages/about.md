@@ -14,7 +14,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 **Key words of my research: human-AI interaction, well-being, persuasive technology, conversational agent/interface**. 
 
 ## News
-- 🔎 **I am actively seeking internship opportunities and other forms of collaborative engagements. If you are interested, feel free to reach out!**
+- 🔎 **I am actively seeking internship opportunities, post-doc opportunities, and other forms of collaborative engagements. If you are interested, feel free to reach out!**
 - 📝 One paper is accepted by **CHI 2026**.
 - 📝 One paper is accepted by **IMWUT 2026**.
 - 📝 One poster is accepted by **CUI 2025**.
@@ -24,12 +24,14 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 - 📝 One poster is accepted by **CUI 2023**.
 
 ## Computing systems I have built
-- 📱  **StayFocused**: Experiment Prototype, a screen time management mobile app with a reflective agent.
+- 📱 **StayFocused**: Experiment Prototype, a screen time management mobile app with a reflective agent.
 - 💻 **SmartEats-1**: Experiment Prototype, a dietary recommender web application with a customizable agent.
 - 🤖 **SmartEats-2**: Experiment Prototype, a dietary recommender web application with upgraded multi-LLM collaboration pipelines.
+- 🤷‍♀️ **NadekoMedBot**: Prototype, a medical chatbot built by fine-tuning Qwen-8B for healthcare Q&A, which interacts with users in the persona of Nadeko Sengoku.
+- ⌚ **EATime**: Experiment Prototype, a multi-device (i.e., including an iPhone end and an apple watch end) eating behavior management App with a customizable virtual pet and a dietary recommender agent.
   
 ## Services
-- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, IDC 25 LBW track, Pervasive Health 25 (full score review), IJHCS 25.
+- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, CHI 26 LBW track, IDC 25 LBW track, Pervasive Health 25 (full score review), IJHCS 25.
 - 👥 **Associate Chair**: ACM CHI 25 LBW track.
 
 

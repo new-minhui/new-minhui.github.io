@@ -31,7 +31,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 - ⌚ **EATime**: Experiment Prototype, a multi-device (i.e., including an iPhone end and an apple watch end) eating behavior management App with a customizable virtual pet and a dietary recommender agent.
   
 ## Services
-- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, CHI 26 LBW track, IDC 25 LBW track, Pervasive Health 25 (full score review), IJHCS 25.
+- 👤 **Reviewer**: ACM CHI 24, CCHI 24, CHI 25, CHI 26 LBW track, IDC 25 LBW track, Pervasive Health 25 (full score review), IJHCS 25, CUI 26 Short Paper track.
 - 👥 **Associate Chair**: ACM CHI 25 LBW track.
 
 

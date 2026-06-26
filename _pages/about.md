@@ -14,7 +14,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 **Key words of my research: human-AI interaction, well-being, persuasive technology, conversational agent/interface**. 
 
 ## News
-- 🔎 **I am actively seeking internship opportunities, post-doc opportunities, and other forms of collaborative engagements. If you are interested, feel free to reach out!**
+- 🔎 **I am actively seeking post-doc opportunities and other forms of collaborative engagements. If you are interested, feel free to reach out!**
 - 🙊 Joined Microsoft Research Asia (MSRA) HK as an research intern.
 - 📝 One paper is accepted by **CHI 2026**.
 - 📝 One paper is accepted by **IMWUT 2026**.

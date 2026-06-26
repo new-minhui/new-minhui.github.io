@@ -15,7 +15,7 @@ Before working at Hong Kong, I spent four years (2019 to 2023) at Xi'an Jiaotong
 
 ## News
 - 🔎 **I am actively seeking post-doc opportunities and other forms of collaborative engagements. If you are interested, feel free to reach out!**
-- 🙊 Joined **Microsoft Research Asia (MSRA) Hong Kong** as an research intern.
+- 🙊 Joined **Microsoft Research Asia (MSRA) Hong Kong** as a research intern.
 - 📝 One paper is accepted by **CHI 2026**.
 - 📝 One paper is accepted by **IMWUT 2026**.
 - 📝 One poster is accepted by **CUI 2025**.
